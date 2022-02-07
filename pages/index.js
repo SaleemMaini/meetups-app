@@ -1,5 +1,5 @@
 import MeetupList from "../components/meetups/MeetupList";
-import { Fragment } from "react/cjs/react.production.min";
+import  {Fragment} from "react";
 const DUMMY_MEETUPS = [
   {
     id: "1",
